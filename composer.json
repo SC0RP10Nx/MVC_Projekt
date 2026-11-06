@@ -1,5 +1,5 @@
 {
-    "name": "06_mvc/first",
+    "name": "01_mvc/first",
     "description": "Meine erstes Projekt Composer",
     "type": "project",
     "autoload": {

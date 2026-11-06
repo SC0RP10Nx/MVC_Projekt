@@ -1,0 +1,15 @@
+.flash-meldung {
+  animation: flash-aus 0.5s ease-in forwards 3s;
+}
+
+.flash-erfolg{
+  color: $colorSuccess !important;
+}
+.flash-fehler{
+  color: $colorError !important;
+}
+@keyframes flash-aus {
+   to {
+     opacity: 0;
+   }
+ }

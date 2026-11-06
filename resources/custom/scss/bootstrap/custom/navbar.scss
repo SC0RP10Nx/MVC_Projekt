@@ -1,0 +1,127 @@
+//Nav
+//Background-Color
+$navi-link-bg: $color1;
+//border-Color
+$borderColor: $color6;
+
+//border-width
+$borderWidth: 2px;
+//font-size Navi
+$navi-top-font-size: 1em;
+$navi-foot-font-size: 1em;
+$navi-sozialnetwork-font-size: 1.7em;
+
+
+//fontColor
+$navi-color-font: $color1;
+//fontColor hover
+$navi-color-active-hover-font: $color2;
+//background-color
+$navi-bg-hover: $color2;
+$navi-bg-activ: $color2;
+//Dropmenu
+$navi-dropmenu: $color1;
+$navi-dropmenu-hover: $color2;
+$navi-dropmenu-color: rgb(197 255 51);
+//bgLight
+$bs-light-rgb: rgb(80 80 80);
+$bs-bg-opacity: 1;
+//transbox
+$transbox-bg-color: $color4;
+
+.navbar {
+  z-index: 1
+}
+
+/*zum Gruppieren und Ausblenden von Navigationsleisteninhalten durch einen übergeordneten Haltepunkt.*/
+.navbar-collapse {
+  flex-grow: 0
+}
+
+.bg-light-custom {
+  opacity: $bs-bg-opacity !important;
+  background-color: $bs-light-rgb !important;
+}
+
+//Button Navbar
+.navbar-toggler:focus {
+  box-shadow: none
+}
+
+.navbar-toggler {
+  .menu-nav {
+    color: $navi-dropmenu !important;
+  }
+
+  border: $borderWidth solid $navi-dropmenu !important;
+}
+
+
+.navbar-toggler:hover {
+  .menu-nav {
+    color: $navi-dropmenu-hover !important;
+  }
+
+  border: $borderWidth solid $navi-dropmenu-hover !important;
+}
+
+
+.nav-item > a:link,
+.nav-item > a:visited {
+  color: $navi-color-font !important;
+  font-size: $navi-top-font-size !important;
+  text-transform: uppercase !important;
+}
+
+.nav-item > a:hover,
+.nav-item > a:focus,
+.nav-item > a:active, {
+  color: $navi-color-active-hover-font !important;
+}
+
+
+.navbar-nav a.nav-link.active,
+.navbar-nav a.dropdown-item.active {
+  color: $navi-color-active-hover-font !important;
+}
+
+//Dropmenu
+.dropdown-menu {
+  border: $borderWidth solid $navi-dropmenu !important;
+  --bs-dropdown-link-active-bg: none !important;
+}
+
+.navbar-nav .nav-link.show {
+  color: $navi-bg-activ !important;
+}
+
+a.dropdown-item:link,
+a.dropdown-item:visited {
+  color: $navi-color-font !important;
+  font-size: $navi-top-font-size !important;
+  text-transform: uppercase !important;
+}
+
+a.dropdown-item:hover,
+a.dropdown-item:focus,
+a.dropdown-item:active {
+  color: $navi-color-active-hover-font !important;
+}
+
+
+ul.dropdown-menu li {
+  background-color: $borderColor !important;
+}
+
+/*.dropdown-item:hover, .dropdown-item:focus {
+  background-color: $navi-dropmenu-color !important;
+  color: $navi-color-active-hover-font !important;
+}*/
+
+
+
+
+
+
+
+

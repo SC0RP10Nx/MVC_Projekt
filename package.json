@@ -1,0 +1,38 @@
+{
+  "name": "05_mvc",
+  "version": "1.0.0",
+  "description": "Mein erstes GULPSass",
+  "license": "ISC",
+  "author": "Johannes Mueller",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-datepicker": "^1.10.1",
+    "bootstrap-filestyle": "^1.2.1",
+    "bootstrap-icons": "^1.13.1",
+    "bootstrap-year-calendar": "^1.1.1",
+    "datatables.net-bs5": "^3.0.2",
+    "datatables.net-dt": "^3.0.2",
+    "dropzone": "^6.3.1",
+    "gulp": "^5.0.1",
+    "gulp-changed": "^5.0.4",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "imagemin-gifsicle": "^5.2.0",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-svgo": "^12.0.0",
+    "jquery": "^4.0.0",
+    "jquery.session": "^1.0.0",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.71.1"
+  }
+}

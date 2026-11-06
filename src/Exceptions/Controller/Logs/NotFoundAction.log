@@ -1,0 +1,140 @@
+2026-08-21 10:15:46 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(29): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:12:05 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(31): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:12:19 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(31): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:12:42 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(31): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:13:22 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:13:35 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:14:05 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-08-21 11:51:19 #0 /vagrant/projekte/04_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/04_mvc/src/Init.php(31): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/04_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} hh Action not found!
+2026-09-09 07:29:19 #0 /vagrant/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} anfangDatensatz Action not found!
+2026-09-15 10:07:29 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:07:43 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:12:31 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} nexxt Action not found!
+2026-09-15 10:13:18 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:15:48 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:18:14 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:18:31 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:19:26 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 10:41:51 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} logincontrol Action not found!
+2026-09-15 10:51:56 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} logincontrol Action not found!
+2026-09-15 11:15:54 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} destroy Action not found!
+2026-09-15 13:51:42 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} bal Action not found!
+2026-09-15 13:55:53 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} auslesen Action not found!
+2026-09-17 08:38:01 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} galerie Action not found!
+2026-09-17 08:38:06 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} download Action not found!
+2026-09-17 08:38:13 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} uploadView Action not found!
+2026-09-17 08:38:32 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} download Action not found!
+2026-09-17 08:39:42 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} galerie Action not found!
+2026-09-17 08:39:51 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} mkdir Action not found!
+2026-09-17 11:02:21 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} verzeichnisDel Action not found!
+2026-09-17 11:02:31 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} verzeichnisDel Action not found!
+2026-09-17 11:47:48 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} galerie Action not found!
+2026-09-17 11:47:52 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} verzeichnisInhaltDel Action not found!
+2026-09-17 11:54:53 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} verzeichnisDel Action not found!
+2026-09-17 11:54:58 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} verzeichnisInhaltDel Action not found!
+2026-09-17 13:00:38 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/Controller/ControllerFactory.php(35): dateninjson\Library\Controller\ControllerFactory->checkIfActionExists()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(32): dateninjson\Library\Controller\ControllerFactory->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main} galerie Action not found!

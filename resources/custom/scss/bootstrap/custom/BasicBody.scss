@@ -1,0 +1,17 @@
+//Definierung der Grundeinstellung des Bodys
+$backgroundBodyColor: $color6;
+$bodyFontColor: $color3;
+$bodyFontSize: 0.8em;
+$bodyFontFamily: #Georgia, #Arial, "Times New Roman";
+$bodyLineheight: 1.5em;
+
+body {
+  background-color: $backgroundBodyColor !important;
+  color: $bodyFontColor !important;
+  font-size: $bodyFontSize !important;
+  font-family: $bodyFontFamily !important;
+  line-height: $bodyLineheight !important;
+}
+
+
+

@@ -1,0 +1,374 @@
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(53): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(46): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-10:56:22
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(53): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(46): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:04:18
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(53): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:05:55
+#0 /vagrant/projekte/08_datenspeichernJson/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->filename_safe()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(53): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}04.10.24-11:06:07
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(44): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:07:16
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:42:13
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:42:37
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-11:43:09
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(85): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main}04.10.24-12:00:30
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(51): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-09:02:06
+#0 /vagrant/projekte/08_datenspeichernJson/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(61): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/projekte/08_datenspeichernJson/public/index.php(16): dateninjson\Init->setDisplay()
+#4 {main}04.15.24-14:11:22
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Verzeichniserstellung/Controller.php(61): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.17.24-15:35:58
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(46): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(19): dateninjson\Init->setDisplay()
+#3 {main}11.08.24-10:40:29
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(46): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(19): dateninjson\Init->setDisplay()
+#3 {main}11.08.24-10:40:33
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(48): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(19): dateninjson\Init->setDisplay()
+#3 {main}11.08.24-10:41:14
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(19): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(48): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(19): dateninjson\Init->setDisplay()
+#3 {main}11.08.24-10:41:21
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(30): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/AbstractClass/Controller/AController.php(20): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/08_mvc/src/Init.php(40): dateninjson\AbstractClass\Controller\AController->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(17): dateninjson\Init->setDisplay()
+#4 {main}03.04.25-10:19:05
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(30): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/AbstractClass/Controller/AController.php(20): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/08_mvc/src/Init.php(40): dateninjson\AbstractClass\Controller\AController->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(17): dateninjson\Init->setDisplay()
+#4 {main}03.04.25-10:19:18
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(30): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/AbstractClass/Controller/AController.php(20): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\AbstractClass\Controller\AController->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(17): dateninjson\Init->setDisplay()
+#4 {main}03.04.25-10:20:28
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}03.04.25-10:21:56
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}03.04.25-10:22:02
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(53): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}03.04.25-10:24:05
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(18): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}03.04.25-10:32:08
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.02.25-08:30:31
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.28.25-08:16:20
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.28.25-08:16:26
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}09.30.25-14:54:15
+#0 /vagrant/projekte/08_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}09.30.25-15:39:23
+#0 /vagrant/projekte/08_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}10.01.25-07:52:57
+#0 /vagrant/projekte/08_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(63): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}10.01.25-07:58:48
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(31): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/08_mvc/src/Init.php(45): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#4 {main}10.02.25-08:05:53
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(31): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#4 {main}10.02.25-08:07:23
+#0 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-08:17:53
+#0 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-08:33:28
+#0 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-08:42:57
+#0 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-08:43:51
+#0 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-08:44:11
+#0 /vagrant/projekte/08_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/projekte/08_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#3 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#4 {main}10.02.25-08:46:24
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:02:39
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:06:47
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:08:05
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:10:23
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:10:57
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:13:44
+#0 /vagrant/projekte/08_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-09:15:28
+#0 /vagrant/projekte/08_mvc/src/Controllers/Dropzone/Controller.php(18): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(47): dateninjson\Controllers\Dropzone\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(14): dateninjson\Init->setDisplay()
+#3 {main}10.02.25-10:43:24
+#0 /vagrant/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/06_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#4 {main}04.14.26-10:57:28
+#0 /vagrant/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/06_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#4 {main}04.14.26-10:57:32
+#0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}04.14.26-10:57:40
+#0 /vagrant/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/06_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#4 {main}04.14.26-10:59:01
+#0 /vagrant/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/projekte/06_mvc/src/AbstractClass/Controller/AContoller.php(16): dateninjson\Controllers\Verzeichniserstellung\Controller->getView()
+#2 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\AbstractClass\Controller\AContoller->indexAction()
+#3 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#4 {main}04.14.26-10:59:10
+#0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}04.14.26-11:07:19
+#0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}04.14.26-11:12:39
+#0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(13): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}04.22.26-07:39:12
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(14): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->indexAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-08:35:36
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(14): dateninjson\Library\DirectoryHandling\VerzeichnisAuslesen->getVerzeichnis()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->indexAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-08:35:38
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(21): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-09:07:07
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(21): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-09:07:32
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(21): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-09:08:15
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(26): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-11:47:33
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-13:29:46
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-13:31:33
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(64): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-13:35:51
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(27): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}09.17.26-13:38:37
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-15:33:28
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-15:37:22
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}09.17.26-15:37:36
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-11:20:35
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-11:20:52
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-11:21:22
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-11:21:31
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-11:25:06
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.06.26-13:50:23
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(30): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.06.26-13:51:19
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.06.26-14:27:25
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(66): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-11:50:52
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-11:55:33
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(66): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-11:55:47
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-11:58:47
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-12:05:57
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(31): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.08.26-13:04:04
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-13:04:15
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(31): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.08.26-13:04:43
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Library/DirectoryHandling/Mkdir.php(31): dateninjson\Library\DirectoryHandling\Mkdir->verzeichnisReg()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main}10.08.26-13:08:39
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(29): dateninjson\Library\DirectoryHandling\Mkdir->__construct()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->mkdirAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-13:10:19
+#0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Verzeichniserstellung/Controller.php(68): dateninjson\Library\DirectoryHandling\Rmdir->setDelAllFile()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Verzeichniserstellung\Controller->verzeichnisInhaltDelAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#3 {main}10.08.26-13:10:28

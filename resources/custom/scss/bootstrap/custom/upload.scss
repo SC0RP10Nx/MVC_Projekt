@@ -1,0 +1,43 @@
+input[type="file"] {
+  border: 1px solid $color1 !important;
+  border-radius: 0 !important;
+}
+
+input[type="file"]:hover {
+  border: 1px solid $color2 !important;
+  border-radius: 0 !important;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: $color1!important;
+  opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:$color1!important;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: $color1!important;
+}
+.form-control:disabled, .form-control[readonly] {
+  background-color: $color6 !important;
+  opacity: 1 !important;
+}
+.dropzone{
+  border: dashed 3px !important;
+  border-radius: 15px !important;
+  color: $color1 !important;
+  background-color: #fffbe9 !important;
+}
+.dropzone.dz-drag-hover{
+  background-color: $color9 !important;
+  border: dashed 3px !important;
+  border-radius: 15px !important;
+  color: $color7 !important;
+}
+.dropzone .dz-preview .dz-success-mark{
+  background-color: $colorSuccess !important;
+}
+.dropzone .dz-preview .dz-error-mark{
+  background-color: $colorError !important;
+}

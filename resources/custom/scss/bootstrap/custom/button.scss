@@ -1,0 +1,33 @@
+.btn-custom:hover {
+  background-color: $color2 !important;;
+  border-color: $color2 !important;;
+  color: $bt-color !important;
+}
+
+.btn-custom {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $bt-color !important;
+}
+
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+}
+
+.btn-no-radius {
+  border-radius: 0 !important;
+}
+
+.colorUpload {
+  color: $color1 !important;
+}
+
+.bootstrap-filestyle .btn {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  background-color: $color1 !important;
+  color: $bt-color !important;
+}

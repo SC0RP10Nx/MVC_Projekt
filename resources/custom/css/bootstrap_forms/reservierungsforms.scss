@@ -1,0 +1,95 @@
+.reservierunsform .form-check {
+  min-height: 1.5rem !important;
+  padding-left: 1.5em !important;
+  margin-bottom: .125rem !important;
+}
+
+.reservierunsform .form-check-inline {
+  display: inline-block !important;
+}
+
+.reservierunsform .input-group-text {
+  width: 2.7em !important;
+  color: var(--bt-color);
+  background-color: rgba(var(--bg-input-text-trans), var(--bg-input-text--opacity));
+}
+
+.reservierunsform .form-check-input:checked {
+  background-color: var(--bt-background);
+  border-color: var(--bt-background);
+}
+
+.reservierunsform fieldset.fieldset-border {
+  border: 1px groove var(--form-color) !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 1.2em 0 1.5em 0 !important;
+}
+
+.reservierunsform legend.legende-text {
+  float: none !important;
+  font-size: 1.2em !important;
+  font-weight: bold !important;
+  text-align: left !important;
+  color: var(--form-color);
+  width: auto;
+  padding: 0 10px;
+  border-bottom: none;
+}
+
+.reservierunsform .checkcolor .form-check-input:checked {
+  background-color: var(--form-check-color);
+  border-color: var(--form-check-color);
+}
+
+.reservierunsform .form-switch .form-check-input {
+  margin-left: -1.5em !important;
+}
+
+.reservierunsform a.agbs {
+  color: var(--form-color);
+  text-decoration: none;
+}
+
+.reservierunsform a.agbs:hover, a.agbs:visited, a.agbs:focus, a.agbs:active {
+  color: var(--bt-background-hover) !important;
+  text-decoration: none !important;
+}
+
+.reservierunsform label {
+  color: var(--form-color);
+}
+
+.reservierunsform .dropdown-menu {
+  background-color: #f8f8f8 !important;
+}
+
+.reservierunsform table.table-condensed > thead > tr:nth-child(2) {
+  border-bottom: rgba(16, 108, 175, 0.6) 1px solid;
+}
+
+.reservierunsform .datepicker .cw {
+  color: #106eaf;
+}
+
+.reservierunsform .datepicker table tr td.disabled, .datepicker table tr td.disabled:hover {
+  color: rgba(119, 119, 119, 0.4);
+}
+
+.bg-color {
+  padding-left: 10px !important;
+  background-color: var(--bt-background) !important;
+  border-color: var(--bt-background) !important;
+  color: var(--bg-font-coler) !important;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: var(--body-color) !important;
+  opacity: 0.6; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:var(--body-color) !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: var(--body-color) !important;
+}

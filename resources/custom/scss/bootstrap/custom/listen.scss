@@ -1,0 +1,51 @@
+//Listen
+$liste-color: $color3;
+$liste-color-list: $color3;
+$liste-color-hover: $color2;
+$liste-color-border:$color3;
+$liste-border-opacity:1;
+$liste-background-color: "#efefef";
+$liste-background-color-hover: "#efefef";
+$list-font-size:0.8em;
+$liste-style-type: square;
+
+
+ul, ol {
+  list-style: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  font-size: $list-font-size;
+}
+
+.list-group-item {
+  color: $liste-color !important;
+  background-color: $liste-background-color !important;
+  opacity: $liste-border-opacity !important;
+  border-top: 0 solid $liste-color-border!important;
+  border-bottom: 1px solid $liste-color-border!important;
+  border-left: 1px solid $liste-color-border!important;
+  border-right: 1px solid $liste-color-border!important;
+
+}
+
+
+.first-list {
+  border-top: 1px solid $liste-color-border!important;
+}
+
+.list-group-item:hover {
+  color: $liste-color-hover !important;
+  background-color: $liste-background-color-hover !important;
+}
+.activ {
+  color: $liste-color-hover !important;
+  background-color: $liste-background-color-hover !important;
+}
+ul.liste li{
+  color: $liste-color-list !important;
+}
+ul.liste li:hover{
+  color: $liste-color-hover !important;
+}

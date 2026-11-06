@@ -1,0 +1,39 @@
+.hide-bullets {
+    list-style: none;
+    margin-left: -45px;
+    margin-top: 0px;
+}
+
+.thumbnail {
+
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
+
+.col-lg-4 a {
+    border: 1px solid transparent;
+    border-radius: 0;
+    transition: all 3s ease;
+}
+
+.col-lg-4 a:hover {
+    border: 1px solid #c80000;
+    border-radius: 100% 60% / 30% 10%;
+    background: linear-gradient(rgba(56, 123, 131, 0.7), rgba(56, 123, 131, 0.7));
+}
+
+.hide-bullets li {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+@media screen and (min-width: 992px) {
+
+    #carousel-bounding-box {
+        width: 48%;
+        padding: 20px  !important;
+        margin: 0 0 0 2% !important;
+    }
+}

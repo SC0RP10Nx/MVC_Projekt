@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="card mt-3">
+        <div class="card-body">
+            <div class="row mt-3">
+                <div class="col-12">
+                    <h3 class="card-title">Überprüfung der Eingaben</h3>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-12">
+                    <ul class="list-group">
+                        {foreach $smarty.const.NAMEARRAY as $item=>$value}
+                        <li class="list-group-item d-flex"><span class="col-3 bg-color">
+                            {$value}:</span><span class="col-1"></span>
+                            <span class="col-8">{$smarty.session.datensatz.{$item}}</span>
+                        </li>
+                        {/foreach}
+                    </ul>
+                    <a href="/Textspeichernjson" role="button"
+                       class="btn btn-custom mt-3">Ändern</a>
+                    <a href="/Textspeichernjson/speichern" role="button"
+                       class="btn btn-custom mt-3">Speichern</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

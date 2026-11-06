@@ -1,0 +1,13 @@
+# Abhängigkeiten, lassen sich mit npm install und composer install neu erzeugen
+node_modules/
+vendor/
+
+# Smarty Zwischenspeicher, wird beim Aufruf automatisch neu erzeugt
+public/templates_c/
+
+# Hochgeladene Bilder und gespeicherte Formulardaten
+public/ImgUpload/
+src/Speicherort/Export/
+
+# Einstellungen von PhpStorm
+.idea/

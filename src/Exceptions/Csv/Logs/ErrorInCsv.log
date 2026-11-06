@@ -1,0 +1,320 @@
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(17): textspeichern\Models\Csv\ConvertDefault->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(40): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-08:40:01
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(16): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:01:21
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(16): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:01:51
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(16): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:02:11
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(16): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:05:02
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(16): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:05:33
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Csv\ConvertDefault->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:12:05
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:18:58
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:19:20
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:26:52
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:26:56
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-09:30:20
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:14:00
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:15:49
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:16:02
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:18:58
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:19:03
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:22:05
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:22:11
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:24:17
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:25:52
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:26:27
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:27:00
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:28:05
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:28:17
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:28:22
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:28:50
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:29:52
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:30:24
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:30:47
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:31:58
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:32:02
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:32:10
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(29): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:32:56
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:46:14
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-12:46:23
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-14:55:38
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(20): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-14:55:43
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(31): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:04:37
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:05:21
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(31): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:05:23
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(31): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:05:30
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(31): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:06:46
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:06:51
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:12:13
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(27): textspeichern\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:13:43
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:13:49
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.14.22-15:14:51
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-08:49:40
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-09:08:25
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-09:08:35
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-09:08:46
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-09:08:53
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(28): textspeichern\Init->setDisplay()
+#3 {main}03.17.22-09:09:06
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.22.22-14:36:14
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(21): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.22.22-14:36:19
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(24): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.22.22-15:15:21
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(24): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}03.22.22-15:15:32
+#0 /vagrant/projekte/07_textspeichern/src/Controllers/Csv/Controller.php(24): textspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_textspeichern/src/Init.php(41): textspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_textspeichern/public/index.php(30): textspeichern\Init->setDisplay()
+#3 {main}09.07.22-11:03:58
+#0 /vagrant/projekte/07_smarty/src/Controllers/Csv/Controller.php(26): smartyprojekt\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_smarty/src/Init.php(44): smartyprojekt\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_smarty/public/index.php(19): smartyprojekt\Init->setDisplay()
+#3 {main}03.01.23-11:31:49
+#0 /vagrant/projekte/07_smarty/src/Controllers/Csv/Controller.php(26): smartyprojekt\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_smarty/src/Init.php(44): smartyprojekt\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_smarty/public/index.php(19): smartyprojekt\Init->setDisplay()
+#3 {main}03.01.23-11:33:18
+#0 /vagrant/projekte/07_smarty/src/Controllers/Csv/Controller.php(26): smartyprojekt\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/07_smarty/src/Init.php(44): smartyprojekt\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/07_smarty/public/index.php(19): smartyprojekt\Init->setDisplay()
+#3 {main}03.01.23-11:34:29
+#0 /vagrant/projekte/08_DatenspeicherProjekte/src/Controllers/Csv/Controller.php(23): projekt_datenspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_DatenspeicherProjekte/src/Init.php(41): projekt_datenspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/08_DatenspeicherProjekte/public/index.php(19): projekt_datenspeichern\Init->setDisplay()
+#3 {main}09.04.23-14:53:16
+#0 /vagrant/projekte/08_DatenspeicherProjekte/src/Controllers/Csv/Controller.php(23): projekt_datenspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_DatenspeicherProjekte/src/Init.php(43): projekt_datenspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/08_DatenspeicherProjekte/public/index.php(19): projekt_datenspeichern\Init->setDisplay()
+#3 {main}09.04.23-14:55:16
+#0 /vagrant/projekte/08_DatenspeicherProjekte/src/Controllers/Csv/Controller.php(23): projekt_datenspeichern\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_DatenspeicherProjekte/src/Init.php(43): projekt_datenspeichern\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/08_DatenspeicherProjekte/public/index.php(19): projekt_datenspeichern\Init->setDisplay()
+#3 {main}02.20.24-14:07:50
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Csv/Controller.php(24): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\CSV\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-11:46:09
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Csv/Controller.php(24): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\CSV\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-11:49:28
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Csv/Controller.php(36): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-11:49:39
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Csv/Controller.php(36): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-11:49:56
+#0 /vagrant/projekte/08_datenspeichernJson/src/Controllers/Csv/Controller.php(24): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_datenspeichernJson/src/Init.php(48): dateninjson\Controllers\CSV\Controller->uploadAction()
+#2 /vagrant/projekte/08_datenspeichernJson/public/index.php(17): dateninjson\Init->setDisplay()
+#3 {main}04.12.24-11:51:35
+#0 /vagrant/projekte/08_mvc/src/Controllers/Csv/Controller.php(22): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/08_mvc/src/Init.php(43): dateninjson\Controllers\Csv\Controller->uploadAction()
+#2 /vagrant/projekte/08_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main}04.02.25-08:11:00
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(23): dateninjson\Models\Downloadimg\Upload->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->uploadAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}04.14.26-11:06:50
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-07:39:27
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-07:39:54
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-07:40:08
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-07:41:25
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-07:43:15
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-08:14:58
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-08:15:24
+#0 /vagrant/projekte/06_mvc/src/Controllers/Csv/Controller.php(35): dateninjson\Models\Csv\DownloadCsv->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(47): dateninjson\Controllers\CSV\Controller->downloadIfFileExistsAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(15): dateninjson\Init->setDisplay()
+#3 {main}05.21.26-08:16:22

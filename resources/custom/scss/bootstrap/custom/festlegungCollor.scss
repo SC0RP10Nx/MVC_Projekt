@@ -1,0 +1,55 @@
+//Hauptfarben der Seite
+$color1: #8792ff;
+$color2: #ffda00;
+$color3: #000000;
+$color4: #e52721;
+$color5: #e52721;
+$color6: #9a9a9a;
+$color7: #c5ff33;
+$color8: #00fff9;
+$color9: #9c9c9c;
+$color10: #491616;
+$colorSuccess: #22b100;
+$colorError: #e52721;
+
+$bt-color: #000000;
+
+//Hauptfarben als class
+.color1{
+  color: $color1;
+}
+.color2{
+  color: $color2;
+}
+.color3{
+  color: $color3;
+}
+.color4{
+  color: $color4;
+}
+.color5{
+  color: $color5;
+}
+.color6{
+  color: $color6;
+}
+.color7{
+  color: $color7;
+}
+.color8{
+  color: $color8;
+}
+.color9{
+  color: $color9;
+}
+.color10{
+  color: $color10;
+}
+
+.colorSuccess{
+  color: $colorSuccess;
+}
+.colorError{
+  color: $colorError;
+}
+

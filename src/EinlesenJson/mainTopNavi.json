@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Sie befinden sich auf meiner Seite",
+    "href": "\/",
+    "button": "Home",
+    "controllerName": "home"
+  },
+  "textspeichernjson": {
+    "title": "Textspeichern in eine Json",
+    "href": "\/textspeichernjson",
+    "button": "Textspeichernjson",
+    "controllerName": "textspeichernjson"
+  },
+  "verzeichniserstellung": {
+    "title": "Verzeichniserstellung",
+    "href": "\/verzeichniserstellung",
+    "button": "Verzeichniserstellung",
+    "controllerName": "verzeichniserstellung"
+  },
+  "csv": {
+    "title": "CSV-Datei",
+    "href": "\/csv",
+    "button": "CSV",
+    "controllerName": "csv"
+  },
+  "datatables": {
+    "title": "Datatables",
+    "href": "\/datatables",
+    "button": "Datatables",
+    "controllerName": "datatables"
+  },
+  "dropzone": {
+    "title": "Dropzone mit File-Array",
+    "href": "\/dropzone",
+    "button": "Dropzone",
+    "controllerName": "dropzone"
+  },
+  "spiel": {
+    "title": "Spiel",
+    "href": "\/spiel",
+    "button": "Spiel",
+    "controllerName": "spiel"
+  }
+}

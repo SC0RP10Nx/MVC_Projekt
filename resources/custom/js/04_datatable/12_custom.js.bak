@@ -1,0 +1,86 @@
+$(function () {
+    $('#imgDownload').DataTable({
+        responsive: true,
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+    $('#datatablesTest').DataTable({
+        responsive: true,
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+
+        },
+        "scrollX": true
+    });
+    $('#mueller').DataTable({
+        responsive: true,
+        pagingType: 'first_last_numbers',
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+    $('#raten').DataTable({
+        responsive: true,
+        pagingType: 'first_last_numbers',
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+    $('#annuitaeten').DataTable({
+        responsive: true,
+        pagingType: 'first_last_numbers',
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+    $('#endfaelliges').DataTable({
+        responsive: true,
+        pagingType: 'first_last_numbers',
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+    $('#example').DataTable({
+        responsive: true,
+        layout: {
+            bottomStart: {
+                'info': true,
+                buttons: [{
+                    extend: 'pdfHtml5',
+                    title: "Mein PDF",
+                    filename: 'mueller',
+                    orientation: 'landscape', //portrait
+                    pageSize: 'A4', //A3 , A5 , A6 ,
+                    extension: '.pdf',
+                    text: 'PDF',
+                    exportOptions: {
+                        modifier: {
+                            //page: 'current'   // einzelne Seiten
+                        },
+                        columns: ':visible',
+                        search: 'applied',
+                        order: 'applied'
+                    }
+                }, 'copy', 'csv', 'excel', 'pdf', 'print']
+            }
+        },
+        lengthMenu: [10, 25, 50, 75, {label: 'All', value: -1}],
+        // paging: true,
+        // info: true,
+        // lengthChange: true,
+        pagingType: 'first_last_numbers',  //first_last_numbers   simple_numbers  full_numbers full numbers simple
+        "oLanguage": {
+            "oPaginate": {
+                "sFirst": "«",
+                "sLast": "»",
+                "sNext": "›",
+                "sPrevious": "‹",
+            }
+        },
+
+        "language": {
+            "url": "../plugins/dataTables.german.json"
+        },
+    });
+});

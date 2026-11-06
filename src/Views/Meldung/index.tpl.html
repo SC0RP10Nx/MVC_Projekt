@@ -1,0 +1,19 @@
+<div class="card btn-group-lg mt-3">
+    <div class="card-body">
+        <p class="card-title">
+            {if is_array($meldung)}
+                {foreach $meldung as $value}
+                    {$value}<br>
+                {/foreach}
+            {else}
+                {$meldung}
+            {/if}
+        </p>
+        <div class="row mt-2">
+            <div class="col-2">
+                <a href="{$link}" role="button" class="btn btn-custom btn-sm">Weiter</a>
+            </div>
+        </div>
+    </div>
+</div>
+

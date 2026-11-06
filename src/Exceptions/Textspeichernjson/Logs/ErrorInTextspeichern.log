@@ -1,0 +1,131 @@
+2026-08-28 11:16:13 #0 /vagrant/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(26): dateninjson\Models\Textspeichernjson\PostZuSession->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} Keine Daten Übergeben!
+2026-08-28 11:16:34 #0 /vagrant/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(26): dateninjson\Models\Textspeichernjson\PostZuSession->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#3 {main} Keine Daten Übergeben!
+2026-08-31 13:14:59 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:15:54 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:16:06 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:16:56 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:18:12 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Key 'anrede' fehlt
+2026-08-31 13:18:32 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:18:52 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:20:00 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:20:09 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:20:54 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Kein Datensatz vorhanden
+2026-08-31 13:21:06 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->sendenAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(20): dateninjson\Init->setDisplay()
+#2 {main} Key 'anrede' fehlt
+2026-09-02 13:51:47 #0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(21): dateninjson\Models\Textspeichernjson\SpeichernDatensatz->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} Der angegebene Path stimmt nicht!
+2026-09-02 13:54:23 #0 /vagrant/projekte/06_mvc/src/Controllers/Spiel/Controller.php(21): dateninjson\Models\Textspeichernjson\SpeichernDatensatz->__construct()
+#1 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Spiel\Controller->indexAction()
+#2 /vagrant/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} Kein Datensatz vorhanden
+2026-09-07 08:47:19 #0 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->speichernAction()
+#1 /vagrant/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#2 {main} Keine Datensatz in SESSION vorhanden
+2026-09-07 13:12:29 #0 /vagrant/projekte/06_mvc/src/Models/Textspeichernjson/SpeichernDatensatz.php(30): dateninjson\Models\Textspeichernjson\SpeichernDatensatz->newDatensatzInsert()
+#1 /vagrant/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(64): dateninjson\Models\Textspeichernjson\SpeichernDatensatz->__construct()
+#2 /vagrant/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->speichernAction()
+#3 /vagrant/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#4 {main} JSON ungültig: Syntax error
+2026-09-15 11:15:28 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(77): dateninjson\Models\Textspeichernjson\Login\Authentifizierung::ueberpruefeLogin()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(35): dateninjson\Controllers\Textspeichernjson\Controller->logincontrolAction()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(18): dateninjson\Init->setDisplay()
+#3 {main} keine User-Daten vorhanden!
+2026-10-08 11:19:45 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Index außerhalb des Bereichs!
+2026-10-08 11:20:43 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Index außerhalb des Bereichs!
+2026-10-08 11:23:57 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:24:04 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:25:15 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:17 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:25 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:26 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:27 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:37 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:29:54 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:33:36 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:39:32 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!
+2026-10-08 11:39:40 #0 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(157): dateninjson\Models\Textspeichernjson\AuslesenDatensatz->getDatensatz()
+#1 /vagrant/mvc-framework252/projekte/06_mvc/src/Controllers/Textspeichernjson/Controller.php(83): dateninjson\Controllers\Textspeichernjson\Controller->getAusgabe()
+#2 /vagrant/mvc-framework252/projekte/06_mvc/src/Init.php(36): dateninjson\Controllers\Textspeichernjson\Controller->toreadoutAction()
+#3 /vagrant/mvc-framework252/projekte/06_mvc/public/index.php(21): dateninjson\Init->setDisplay()
+#4 {main} Keine Datensätze vorhanden!

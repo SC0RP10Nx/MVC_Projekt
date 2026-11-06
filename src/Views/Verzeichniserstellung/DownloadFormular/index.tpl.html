@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="card btn-group-lg mt-3">
+        <div class="card-body ">
+            <table id="imgDownload" class="table table-striped wrap hover" style="width:100%">
+                <thead>
+                <tr>
+                    <th>Anzahl</th>
+                    <th>ImgName</th>
+                    <th>ImgPath</th>
+                    <th>ImgTyp</th>
+                </tr>
+                </thead>
+                <tbody>
+                {for $i = 0 to $result['imgName']|@count-1}
+                <tr>
+                    <td>{$i+1}</td>
+                    <td>{$result['imgName'][$i]}</td>
+                    <td><a href="{$result['ImgPath'][$i]}" download> <img class="downloadTable"
+                                                                          src="{$result['ImgPath'][$i]}"
+                                                                          alt="{$result['imgName'][$i]}"></a></td>
+                    <td>{$result['ImgTyp'][$i]}</td>
+                </tr>
+                {/for}
+                </tbody>
+            </table>
+            <div class="row mt-2">
+                <div class="col-2">
+                    <a href="/verzeichniserstellung" role="button" class="btn btn-custom btn-large">Zurück</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

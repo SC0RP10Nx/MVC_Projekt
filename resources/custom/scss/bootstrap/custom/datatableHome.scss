@@ -1,0 +1,658 @@
+/*IDTabelle*/
+$id-tabelle: 'raten1';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}
+
+/*IDTabelle*/
+$id-tabelle: 'annuitaeten1';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}
+
+/*IDTabelle*/
+$id-tabelle: 'endfaelliges1';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}
+
+/*IDTabelle*/
+$id-tabelle: 'mueller1';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}
+/*IDTabelle*/
+$id-tabelle: 'editor1';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}
+
+/*IDTabelle*/
+$id-tabelle: 'editor2';
+
+##{$id-tabelle}_wrapper .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+  /*border: none !important;*/
+  border-spacing: 0 !important;
+  font-size: 1em !important;
+  font-family: $bodyFontFamily !important;
+}
+
+.pagination {
+  --bs-pagination-border-width: none !important;
+}
+
+##{$id-tabelle}_wrapper .page-item.active .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button {
+  padding: 0 0 !important;
+  margin: 0 !important;
+  border: 1px $color6 solid !important;
+  min-width: 0 !important;
+}
+
+##{$id-tabelle}_wrapper .disabled .page-link {
+  color: $color6 !important;
+  background-color: $color2 !important;
+}
+
+##{$id-tabelle}_wrapper .page-link:hover,
+##{$id-tabelle}_wrapper .page-link:focus {
+  color: $color6 !important;
+  background-color: $color2 !important;
+  border-spacing: 0 !important;
+  background-image: none !important;
+}
+
+##{$id-tabelle}_wrapper .dt-paging-button:hover {
+  #background-color: $color6 !important;
+  background: linear-gradient(to bottom, $color6 0%, $color6 100%) !important; /* W3C */
+}
+
+##{$id-tabelle}_wrapper .dt-button {
+  background-color: $color1 !important;
+  border-color: $color1 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper .dt-button:hover {
+  background-color: $color2 !important;
+  border-color: v $color2 !important;
+  color: $color6 !important;
+  border-radius: 5px !important;
+}
+
+##{$id-tabelle}_wrapper label {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_info {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dt-column-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-title {
+  color: $color1 !important;
+}
+
+##{$id-tabelle}_wrapper .dtr-data {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tbody td {
+  color: $color3 !important;
+}
+
+##{$id-tabelle}_wrapper tr.selected td {
+  color: $color6 !important;
+}
+
+#example_length .form-select {
+  background-image: none !important;
+}
+
+#example_paginate .page-link {
+  color: $color6 !important;
+  background-color: $color1 !important;
+}
+
+#example_paginate .page-item.active .page-link {
+  background-color: $color2 !important;
+}
+
+.paginate_button .page-item:hover {
+  color: $color6 !important;
+  border: none !important;
+  background-color: $color2 !important;
+}

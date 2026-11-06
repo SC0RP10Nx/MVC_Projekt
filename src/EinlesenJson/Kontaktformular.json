@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "FC Bayern": "Scheiß Bayern",
+    "FC Hansa Rostock": "FC Hansa Rostock",
+    "RB Leipzig": "RB Leipzig",
+    "Magdeburg": "1.FC Magdeburg",
+    "FC-Halle": "HFC Chemie"
+  },
+  "laender": {
+    "Holland": "Holland",
+    "Deutschland": "Deutschland",
+    "Polen": "Polen",
+    "Österreich": "Österreich"
+  },
+  "sportart": {
+    "fussball": "Fußball",
+    "handball": "Handball",
+    "laufen": "Laufen",
+    "kegeln": "Kegeln",
+    "schwimmen": "Schwimmen",
+    "angeln": "Angeln",
+    "schach": "Schach"
+  },
+  "indexArray": {
+    "anrede": "",
+    "name": "input",
+    "vname": "input",
+    "strasse": "input",
+    "hausnr": "input",
+    "plz": "input",
+    "ort": "input",
+    "email": "",
+    "tel": "",
+    "verein": "",
+    "sportart": "array",
+    "laender": "",
+    "feedback": "textarea"
+  },
+  "nameArray": {
+    "datum": "Datum",
+    "anrede": "Anrede",
+    "name": "Name",
+    "vname": "Vorname",
+    "strasse": "Straße",
+    "hausnr": "HausNr",
+    "plz": "PLZ",
+    "ort": "Ort",
+    "email": "E-Mail",
+    "tel": "Telefon",
+    "verein": "Verein",
+    "sportart": "Sportart",
+    "laender": "Länder",
+    "feedback": "Feedback\/ Infos"
+  }
+}

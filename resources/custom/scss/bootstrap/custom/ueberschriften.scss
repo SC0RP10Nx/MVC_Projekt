@@ -1,0 +1,52 @@
+//Überschriften
+$h1-color: $color1;
+$h1-front-size: 1.6em;
+$h2-color: $color2;
+$h2-front-size: 1.4em;
+$h3-color: $color3;
+$h3-front-size: 1.3em;
+$h4-color: $color4;
+$h4-front-size: 1.2em;
+$h5-color: $color5;
+$h5-front-size: 1.1em;
+$h6-color: $color1;
+$h6-front-size: 1em;
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600 !important;
+
+}
+
+h1 {
+  color: $h1-color !important;
+  font-size: $h1-front-size !important;
+}
+
+h2 {
+  color: $h2-color !important;
+  font-size: $h2-front-size !important;
+}
+
+h3 {
+  color: $h3-color !important;
+  font-size: $h3-front-size !important;
+}
+
+h4 {
+  color: $h4-color !important;
+  font-size: $h4-front-size !important;
+}
+
+h5 {
+  color: $h5-color !important;
+  font-size: $h5-front-size !important;
+}
+
+h6 {
+  color: $h6-color !important;
+  font-size: $h6-front-size !important;
+}
+
+

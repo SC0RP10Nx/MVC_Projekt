@@ -1,0 +1,21 @@
+<div class="container position-relative mt-2 pb-2">
+    <nav class="navbar navbar-expand-lg  bg-light-custom">
+        <div class="ms-auto">
+            <button class="navbar-toggler m-3 p-3" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbartop"
+                    aria-controls="navbartop" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse  justify-content-end px-3" id="navbartop">
+            <ul class="navbar-nav">
+                {foreach $smarty.const.TEMPLATEJSON as $item}
+                <li class="nav-item">
+                    <a class="nav-link {if $ActivItem === $item['controllerName']} active {/if}" href="{$item['href']}">{$item['button']}</a>
+                </li>
+                {/foreach}
+            </ul>
+        </div>
+    </nav>
+</div>
+<div class="container">

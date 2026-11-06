@@ -1,0 +1,25 @@
+<IfModule mod_rewrite.c>
+    # URL-Rewriting aktivieren
+    RewriteEngine On
+
+    # Basisverzeichnis für die Rewrite-Regeln
+    RewriteBase /
+
+    # index.php direkt aufrufen, ohne weitere Rewrite-Regeln anzuwenden
+    RewriteRule ^index\.php$ - [L]
+
+    # Nur umleiten, wenn die angeforderte Datei NICHT existiert
+    RewriteCond %{REQUEST_FILENAME} !-f
+
+    # Und auch kein echtes Verzeichnis existiert
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Alle anderen Anfragen an index.php weiterleiten
+    # [L] = letzte Rewrite-Regel für diesen Durchlauf
+    #RewriteRule . /index.php [L]
+    RewriteRule ^([^/]+)(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?.*$  index.php?param1=$3&param2=$4&param3=$5
+    #URL------controller/action/param1/param2/param3/
+</IfModule>
+
+#php_value upload_max_filesize 20M
+#php_value post_max_size 24M

@@ -1,0 +1,61 @@
+<div class="container">
+    <div class="card mt-3">
+        <div class="card-body">
+            <form>
+                <div class="row mt-3">
+                    <div class="col-4">
+                        <label for="neuesVerzeichnis" class="form-label">Zum Anlegen eines Verzeichnisses</label>
+                        <input type="text" class="form-control" id="neuesVerzeichnis" name="neuesVerzeichnis"
+                               placeholder="Ein neues Verzeichnis anlegen!">
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/mkdir" value="Anlegen">Verzeichnis Anlegen
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <div class="row mt-1">
+                <div class="col-12">
+                    <h5 class="flash-meldung {if $smarty.session.meldungErfolg|default:false}flash-erfolg{else}flash-fehler{/if}">{if isset($smarty.session.meldung)}{$smarty.session.meldung}{/if}</h5>
+                </div>
+            </div>
+            <form>
+                <div class="row mt-2">
+                    <div class="col-4">
+                        <label for="auswahlVerzeichnis" class="form-label">Bitte Verzeichnis auswählen</label>
+                        <select class="form-select" name="verzeichnis" id="auswahlVerzeichnis">
+                            {foreach $smarty.session.verzeichnisse as $value}
+                            <option value="{$value}" {$AuswahlSession->
+                                checkedselectedFeld('verzeichnis',$value,'selected')} >
+                                {$value}
+                            </option>
+                            {/foreach}
+                        </select>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/uploadView" value="Anlegen">Zum Upload
+                        </button>
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/download">Zum Download
+                        </button>
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/verzeichnisDel">Verzeichnis löschen
+                        </button>
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/verzeichnisInhaltDel">Alle Dateien löschen
+                        </button>
+                        <button type="submit" class="btn btn-custom" formmethod="post"
+                                formaction="/verzeichniserstellung/galerie">zur Bildergalerie
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

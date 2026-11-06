@@ -1,0 +1,60 @@
+$formular: '.kontaktformular';
+
+#{$formular} .form-check {
+  min-height: 1.5rem !important;
+  padding-left: 1.5em !important;
+  margin-bottom: .125rem !important;
+}
+
+#{$formular} .form-check-inline {
+  display: inline-block !important;
+}
+
+#{$formular} .input-group-text {
+  width: 7.5em !important;
+  color: var(--input-group-text-color) !important;
+  background-color: var(input-group-text-bg-color);
+}
+
+#{$formular} .form-control {
+  color: var(--form-control-color) !important;
+}
+
+#{$formular} .form-select {
+  color: var(--form-control-color) !important;
+}
+
+#{$formular} .btn-primary:hover {
+  background-color: var(--bt-background-hover) !important;
+  border-color: var(--bt-background-hover) !important;
+  color: var(--bt-color) !important;
+}
+
+#{$formular} .btn-primary {
+  background-color: var(--bt-background);
+  border-color: var(--bt-background);
+  color: var(--bt-color);
+}
+
+#{$formular} .form-check-input:checked {
+  background-color: var(--form-check-input-bg);
+  border-color: var(--form-check-input-border);
+}
+
+.bg-color {
+  padding-left: 10px !important;
+  background-color: var(--bg-color) !important;
+  border-color: var(--bg-border-color) !important;
+  color: var(--bg-font-coler) !important;
+}
+
+b.logInFehler {
+  color: var(--error-color);
+}
+
+.input-group-text {
+  width: 7.5em !important;
+  color: var(--input-group-text-color) !important;
+  background-color: var(--input-group-text-bg-color);
+}
+

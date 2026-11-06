@@ -1,0 +1,34 @@
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            {if !empty($smarty.get.param1)}
+            <b style="color:red">Login inkorrekt!</b>
+            {else}
+            <b> Bitte Zugangsdaten eingeben!</b>
+            {/if}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <form class="kontaktformular">
+                <div class="form-group">
+                    <div class="input-group mb-3 mt-3">
+                        <label for="username" class="input-group-text">Username</label>
+                        <input type="text" class="form-control" id="username" required value="" placeholder="Username"
+                               name="username">
+                    </div>
+                    <div class="input-group mb-3 mt-3">
+                        <label for="passwd" class="input-group-text">Password</label>
+                        <input type="password" class="form-control" id="passwd" required placeholder="Password" name="passwd">
+                    </div>
+                </div>
+                <button type="submit" formaction="/textspeichernjson/logincontrol" formmethod="post" name="logindaten"
+                        class="btn btn-custom mt-3">Anmelden
+                </button>
+                <a href="/Textspeichernjson" role="button"
+                   class="btn btn-custom mt-3">Zurück
+                </a>
+            </form>
+        </div>
+    </div>
+</div>
